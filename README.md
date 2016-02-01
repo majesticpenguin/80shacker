@@ -1,8 +1,9 @@
+```
 // 80shacker
-//Terminal Theme For Chrome OS Crosh
+// Terminal Theme For Chrome OS Crosh
 
 term_.prefs_.set('enable-bold', true);
-term_.prefs_.set('font-family', 'monospace');
+term_.prefs_.set('font-family', '"monospace"; text-shadow: 0px 0px 10px !important;');
 
 term_.prefs_.set('background-color', "#000000");
 term_.prefs_.set('foreground-color', "#00ff00");
@@ -25,3 +26,4 @@ term_.prefs_.set('color-palette-overrides', [
 //  '#008080', 
 //  '#c0c0c0'
 ]);
+```
